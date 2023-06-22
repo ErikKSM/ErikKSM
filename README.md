@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ErikKSM
+- 👀 I’m interested in  aprender todo o possivel na area de programaç.
+- 🌱 I’m currently learning  HTML e CSS.
